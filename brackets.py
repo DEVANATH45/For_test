@@ -1,10 +1,3 @@
-# class Brackets:
-#
-#     def __init__(self):
-#         self.text = ""
-#         self.stack = []
-
-
 def sestack(text):
     stack = []
 
