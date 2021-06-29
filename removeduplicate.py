@@ -9,18 +9,6 @@ def merge_the_tools(stringi, k):
         print(empt)
         empt = ""
 
-# s = raw_input().strip()
-# k = int(raw_input())
-# i = 0
-# while i < len(s):
-#     a = s[i:i+k]
-#     output = ""
-#     for x in a:
-#         if x not in output:
-#             output += x
-#     print output
-#     i += k
-
 if __name__ == '__main__':
     # string, k = input(), int(input())
     merge_the_tools('AABCAAADA', 3)
